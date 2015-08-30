@@ -1,4 +1,4 @@
-baseurl = "https://kabsky.github.io/"
+baseurl = "http://kabsky.github.io/"
 title = "zsky's home"
 languageCode = "zh-cn"
 disqusShortname = "zsky" # Optional, enable Disqus integration
